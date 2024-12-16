@@ -1,0 +1,10 @@
+*~
+*#
+*.patch
+*.orig
+*.rej
+
+*.egg-info/
+build/
+dist/
+__pycache__/
