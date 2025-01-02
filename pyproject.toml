@@ -3,6 +3,17 @@ name        = "django-static-mathjax"
 version     = "3.2.2.0"
 description = "JavaScript library for displaying mathematics on the Web"
 readme      = "README.md"
+maintainers = [
+  {name = "Benjamin Moody", email = "bmoody@mit.edu"},
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Environment :: Web Environment",
+  "Framework :: Django",
+  "License :: OSI Approved :: Apache Software License",
+  "Programming Language :: JavaScript",
+  "Topic :: Text Processing :: Markup :: LaTeX",
+]
 
 [build-system]
 requires      = ["setuptools >= 61"]
