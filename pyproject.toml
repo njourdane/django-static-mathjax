@@ -6,11 +6,11 @@ readme      = "README.md"
 maintainers = [
   {name = "Benjamin Moody", email = "bmoody@mit.edu"},
 ]
+license = "Apache-2.0"
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Environment :: Web Environment",
   "Framework :: Django",
-  "License :: OSI Approved :: Apache Software License",
   "Programming Language :: JavaScript",
   "Topic :: Text Processing :: Markup :: LaTeX",
 ]
